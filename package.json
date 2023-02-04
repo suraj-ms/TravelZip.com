@@ -1,0 +1,14 @@
+{
+  "name": "travelzip",
+  "version": "1.0.0",
+  "description": "Travel with us",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj MS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
